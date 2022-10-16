@@ -1,0 +1,12 @@
+
+the main objective of FP is  less coding, polymorphic and easy to undrstanf
+to achieve the FP we need funtional inteface
+
+
+function inteface in java
+
+1. an inteface we have only one abstract method is called FI
+2. A FI may have n number of static and default method
+3. a FI may have some data members (variable) also
+4. a fi can have object class also 
+
